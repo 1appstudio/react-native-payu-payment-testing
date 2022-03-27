@@ -1,5 +1,5 @@
 //
-//  PayuPaymentTesting.swift
+//  test.swift
 //  PayuPaymentTesting
 //
 //  Created by JK on 27/03/22.
@@ -8,6 +8,6 @@
 
 import UIKit
 
-class PayuPaymentTesting: NSObject {
+class test: NSObject {
 
 }
