@@ -1,6 +1,6 @@
 {
   "name": "react-native-payu-payment-testing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PayU",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
